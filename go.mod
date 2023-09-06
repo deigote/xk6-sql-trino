@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-sql
+module github.com/deigote/xk6-sql-trino
 
 go 1.19
 
